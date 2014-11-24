@@ -433,27 +433,46 @@
                         </group>
                         <group width="1" alignment="left" hasDetent="YES" id="HdC-Uz-4jv">
                             <items>
-                                <label alignment="left" text="Coffee" id="eWb-j3-Hoq"/>
-                                <label alignment="right" text="$4.25" id="Ylw-7T-f75"/>
+                                <label alignment="left" text="Coffee" id="eWb-j3-Hoq">
+                                    <color key="textColor" red="0.99215686270000003" green="0.72941176470000002" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="font" type="system" pointSize="13"/>
+                                </label>
+                                <label alignment="right" text="$4.25" id="Ylw-7T-f75">
+                                    <fontDescription key="font" type="system" pointSize="13"/>
+                                </label>
                             </items>
                             <edgeInsets key="margins" left="5" right="5" top="0.0" bottom="0.0"/>
                         </group>
                         <group width="1" alignment="left" hasDetent="YES" id="Hil-fg-gxa">
                             <items>
-                                <label alignment="left" text="Tax" id="XC5-Wm-MDJ"/>
-                                <label alignment="right" text="$0.52" id="kWR-of-9rj"/>
+                                <label alignment="left" text="Tax" id="XC5-Wm-MDJ">
+                                    <color key="textColor" red="0.99215686270000003" green="0.72941176470000002" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="font" type="system" pointSize="13"/>
+                                </label>
+                                <label alignment="right" text="$0.57" id="kWR-of-9rj">
+                                    <fontDescription key="font" type="system" pointSize="13"/>
+                                </label>
                             </items>
                             <edgeInsets key="margins" left="5" right="5" top="0.0" bottom="0.0"/>
                         </group>
                         <group width="1" alignment="left" hasDetent="YES" id="lP9-Or-jHc">
-                            <edgeInsets key="margins" left="0.0" right="0.0" top="12" bottom="0.0"/>
+                            <items>
+                                <label alignment="left" text="Total" id="i8L-38-XRm">
+                                    <fontDescription key="font" type="boldSystem" pointSize="16"/>
+                                </label>
+                                <label height="19.5" alignment="right" text="$4.82" id="VqG-W4-Szp">
+                                    <fontDescription key="font" type="boldSystem" pointSize="16"/>
+                                </label>
+                            </items>
+                            <edgeInsets key="margins" left="5" right="5" top="0.0" bottom="0.0"/>
                         </group>
                         <button alignment="left" id="lTx-9I-TLC">
                             <group key="contentGroup" width="1" alignment="left" id="E1q-qg-TTe">
                                 <items>
-                                    <button width="66" height="28" alignment="left" enabled="NO" backgroundImage="btn-sbuxcard.png" id="cBm-cm-BfE"/>
+                                    <button width="66" height="28" alignment="left" backgroundImage="btn-sbuxcard.png" id="cBm-cm-BfE"/>
                                     <button width="66" height="28" alignment="right" backgroundImage="btn-applepay.png" id="yjQ-Hb-AiI"/>
                                 </items>
+                                <edgeInsets key="margins" left="3" right="3" top="0.0" bottom="0.0"/>
                             </group>
                             <connections>
                                 <segue destination="E5o-tW-yLH" kind="modal" id="ZtQ-5E-dTZ"/>
