@@ -10,4 +10,6 @@
 
 @interface Milk : WKInterfaceController
 
+-(IBAction) jump;
+
 @end

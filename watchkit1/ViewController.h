@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+-(IBAction) getPics;
+-(void) getImages:(NSString*)iurl;
 
 @end
 

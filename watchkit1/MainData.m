@@ -10,4 +10,9 @@
 
 @implementation MainData
 
+-(NSString*) myStringMethod{
+    NSString *iix = @"DYLAN";
+    return iix;
+}
+
 @end

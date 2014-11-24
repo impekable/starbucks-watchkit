@@ -10,4 +10,5 @@
 
 @interface CoffeeController : WKInterfaceController
 
+-(IBAction) jump;
 @end

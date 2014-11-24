@@ -10,4 +10,7 @@
 
 @interface Total : WKInterfaceController
 
+
+-(IBAction) jump;
+
 @end

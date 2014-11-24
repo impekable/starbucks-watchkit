@@ -10,4 +10,6 @@
 
 @interface SelectSizes : WKInterfaceController
 
+-(IBAction) jump;
+
 @end

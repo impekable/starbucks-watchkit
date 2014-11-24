@@ -10,4 +10,6 @@
 
 @interface Specials : WKInterfaceController
 
+-(IBAction) jump;
+
 @end

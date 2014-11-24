@@ -11,4 +11,5 @@
 
 @interface InterfaceController : WKInterfaceController
 
+-(IBAction) getPics; 
 @end

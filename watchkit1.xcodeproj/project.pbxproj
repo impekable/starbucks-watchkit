@@ -7,6 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC0B58561A228FE4003A2CF0 /* CoffeeController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC0B58551A228FE4003A2CF0 /* CoffeeController.m */; };
+		FC0B587A1A229980003A2CF0 /* Specials.m in Sources */ = {isa = PBXBuildFile; fileRef = FC0B58791A229980003A2CF0 /* Specials.m */; };
+		FC0B58831A229D3E003A2CF0 /* item-Caramel-Brulee-Latte.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B587E1A229D3E003A2CF0 /* item-Caramel-Brulee-Latte.png */; };
+		FC0B58841A229D3E003A2CF0 /* item-Chestnut-Praline-Latte.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B587F1A229D3E003A2CF0 /* item-Chestnut-Praline-Latte.png */; };
+		FC0B58851A229D3E003A2CF0 /* item-Eggnog-Latte.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58801A229D3E003A2CF0 /* item-Eggnog-Latte.png */; };
+		FC0B58861A229D3E003A2CF0 /* item-Gingerbread-Latte.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58811A229D3E003A2CF0 /* item-Gingerbread-Latte.png */; };
+		FC0B58871A229D3E003A2CF0 /* item-Peppermint-Mocha.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58821A229D3E003A2CF0 /* item-Peppermint-Mocha.png */; };
+		FC0B58981A229D51003A2CF0 /* Apple-Logo-black.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58881A229D51003A2CF0 /* Apple-Logo-black.png */; };
+		FC0B58991A229D51003A2CF0 /* btn-applepay.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58891A229D51003A2CF0 /* btn-applepay.png */; };
+		FC0B589A1A229D51003A2CF0 /* btn-sbuxcard.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B588A1A229D51003A2CF0 /* btn-sbuxcard.png */; };
+		FC0B589B1A229D51003A2CF0 /* button-page-active.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B588B1A229D51003A2CF0 /* button-page-active.png */; };
+		FC0B589C1A229D51003A2CF0 /* button-page.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B588C1A229D51003A2CF0 /* button-page.png */; };
+		FC0B589D1A229D51003A2CF0 /* item-frappuchino-cinnamondolce.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B588D1A229D51003A2CF0 /* item-frappuchino-cinnamondolce.png */; };
+		FC0B589E1A229D51003A2CF0 /* item-frappuchino-cremebrulee.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B588E1A229D51003A2CF0 /* item-frappuchino-cremebrulee.png */; };
+		FC0B589F1A229D51003A2CF0 /* item-frappuchino-doublechocolatychip.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B588F1A229D51003A2CF0 /* item-frappuchino-doublechocolatychip.png */; };
+		FC0B58A01A229D51003A2CF0 /* item-frappuchino-vanilla.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58901A229D51003A2CF0 /* item-frappuchino-vanilla.png */; };
+		FC0B58A11A229D51003A2CF0 /* list-item-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58911A229D51003A2CF0 /* list-item-bg.png */; };
+		FC0B58A21A229D51003A2CF0 /* list-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58921A229D51003A2CF0 /* list-selected.png */; };
+		FC0B58A31A229D51003A2CF0 /* size-grande.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58931A229D51003A2CF0 /* size-grande.png */; };
+		FC0B58A41A229D51003A2CF0 /* size-tall.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58941A229D51003A2CF0 /* size-tall.png */; };
+		FC0B58A51A229D51003A2CF0 /* size-venti.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58951A229D51003A2CF0 /* size-venti.png */; };
+		FC0B58A61A229D51003A2CF0 /* Starbucks_Corporation_Logo_2011.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58961A229D51003A2CF0 /* Starbucks_Corporation_Logo_2011.svg.png */; };
+		FC0B58A71A229D51003A2CF0 /* Starbucks_logo_2011.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58971A229D51003A2CF0 /* Starbucks_logo_2011.png */; };
+		FC3B65061A22B4EC00CB99B4 /* Total.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3B65051A22B4EC00CB99B4 /* Total.m */; };
+		FC3B65091A22B67600CB99B4 /* Finishr.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3B65081A22B67600CB99B4 /* Finishr.m */; };
 		FC558EF21A2159C900256A28 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FC558EF11A2159C900256A28 /* main.m */; };
 		FC558EF51A2159C900256A28 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC558EF41A2159C900256A28 /* AppDelegate.m */; };
 		FC558EF81A2159C900256A28 /* watchkit1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FC558EF61A2159C900256A28 /* watchkit1.xcdatamodeld */; };
@@ -15,6 +40,28 @@
 		FC558F001A2159C900256A28 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC558EFF1A2159C900256A28 /* Images.xcassets */; };
 		FC558F031A2159C900256A28 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FC558F011A2159C900256A28 /* LaunchScreen.xib */; };
 		FC558F0F1A2159CA00256A28 /* watchkit1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = FC558F0E1A2159CA00256A28 /* watchkit1Tests.m */; };
+		FC558F1F1A215AF300256A28 /* WatchKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC558F1E1A215AF300256A28 /* WatchKit.framework */; };
+		FC558F261A215AF300256A28 /* InterfaceController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC558F251A215AF300256A28 /* InterfaceController.m */; };
+		FC558F291A215AF300256A28 /* NotificationController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC558F281A215AF300256A28 /* NotificationController.m */; };
+		FC558F2C1A215AF300256A28 /* GlanceController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC558F2B1A215AF300256A28 /* GlanceController.m */; };
+		FC558F2E1A215AF300256A28 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC558F2D1A215AF300256A28 /* Images.xcassets */; };
+		FC558F321A215AF300256A28 /* watchkit1 Watch App.app in Resources */ = {isa = PBXBuildFile; fileRef = FC558F311A215AF300256A28 /* watchkit1 Watch App.app */; };
+		FC558F391A215AF300256A28 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC558F381A215AF300256A28 /* Interface.storyboard */; };
+		FC558F3B1A215AF300256A28 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC558F3A1A215AF300256A28 /* Images.xcassets */; };
+		FC558F3E1A215AF300256A28 /* watchkit1 WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = FC558F1C1A215AF300256A28 /* watchkit1 WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		FC558F4A1A21652600256A28 /* step4.png in Resources */ = {isa = PBXBuildFile; fileRef = FC558F461A21652600256A28 /* step4.png */; };
+		FC558F4B1A21652600256A28 /* step4.png in Resources */ = {isa = PBXBuildFile; fileRef = FC558F461A21652600256A28 /* step4.png */; };
+		FC558F4C1A21652600256A28 /* step3.png in Resources */ = {isa = PBXBuildFile; fileRef = FC558F471A21652600256A28 /* step3.png */; };
+		FC558F4D1A21652600256A28 /* step3.png in Resources */ = {isa = PBXBuildFile; fileRef = FC558F471A21652600256A28 /* step3.png */; };
+		FC558F4E1A21652600256A28 /* step2.png in Resources */ = {isa = PBXBuildFile; fileRef = FC558F481A21652600256A28 /* step2.png */; };
+		FC558F4F1A21652600256A28 /* step2.png in Resources */ = {isa = PBXBuildFile; fileRef = FC558F481A21652600256A28 /* step2.png */; };
+		FC558F501A21652600256A28 /* step1.png in Resources */ = {isa = PBXBuildFile; fileRef = FC558F491A21652600256A28 /* step1.png */; };
+		FC558F511A21652600256A28 /* step1.png in Resources */ = {isa = PBXBuildFile; fileRef = FC558F491A21652600256A28 /* step1.png */; };
+		FC558F571A22724800256A28 /* MainData.m in Sources */ = {isa = PBXBuildFile; fileRef = FC558F561A22724800256A28 /* MainData.m */; };
+		FC5AA0B81A22A52300E633A9 /* SelectSizes.m in Sources */ = {isa = PBXBuildFile; fileRef = FC5AA0B71A22A52300E633A9 /* SelectSizes.m */; };
+		FC5AA0BB1A22A8FC00E633A9 /* Milk.m in Sources */ = {isa = PBXBuildFile; fileRef = FC5AA0BA1A22A8FC00E633A9 /* Milk.m */; };
+		FC5AA0BE1A22B07600E633A9 /* step7.png in Resources */ = {isa = PBXBuildFile; fileRef = FC5AA0BC1A22B07600E633A9 /* step7.png */; };
+		FC5AA0BF1A22B07600E633A9 /* step6.png in Resources */ = {isa = PBXBuildFile; fileRef = FC5AA0BD1A22B07600E633A9 /* step6.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -25,9 +72,66 @@
 			remoteGlobalIDString = FC558EEB1A2159C900256A28;
 			remoteInfo = watchkit1;
 		};
+		FC558F331A215AF300256A28 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FC558EE41A2159C900256A28 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FC558F301A215AF300256A28;
+			remoteInfo = "watchkit1 Watch App";
+		};
+		FC558F3C1A215AF300256A28 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FC558EE41A2159C900256A28 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FC558F1B1A215AF300256A28;
+			remoteInfo = "watchkit1 WatchKit Extension";
+		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		FC558F451A215AF300256A28 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				FC558F3E1A215AF300256A28 /* watchkit1 WatchKit Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		FC0B58541A228FE4003A2CF0 /* CoffeeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoffeeController.h; sourceTree = "<group>"; };
+		FC0B58551A228FE4003A2CF0 /* CoffeeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoffeeController.m; sourceTree = "<group>"; };
+		FC0B58781A229980003A2CF0 /* Specials.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Specials.h; sourceTree = "<group>"; };
+		FC0B58791A229980003A2CF0 /* Specials.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Specials.m; sourceTree = "<group>"; };
+		FC0B587E1A229D3E003A2CF0 /* item-Caramel-Brulee-Latte.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "item-Caramel-Brulee-Latte.png"; sourceTree = "<group>"; };
+		FC0B587F1A229D3E003A2CF0 /* item-Chestnut-Praline-Latte.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "item-Chestnut-Praline-Latte.png"; sourceTree = "<group>"; };
+		FC0B58801A229D3E003A2CF0 /* item-Eggnog-Latte.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "item-Eggnog-Latte.png"; sourceTree = "<group>"; };
+		FC0B58811A229D3E003A2CF0 /* item-Gingerbread-Latte.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "item-Gingerbread-Latte.png"; sourceTree = "<group>"; };
+		FC0B58821A229D3E003A2CF0 /* item-Peppermint-Mocha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "item-Peppermint-Mocha.png"; sourceTree = "<group>"; };
+		FC0B58881A229D51003A2CF0 /* Apple-Logo-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Apple-Logo-black.png"; sourceTree = "<group>"; };
+		FC0B58891A229D51003A2CF0 /* btn-applepay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn-applepay.png"; sourceTree = "<group>"; };
+		FC0B588A1A229D51003A2CF0 /* btn-sbuxcard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btn-sbuxcard.png"; sourceTree = "<group>"; };
+		FC0B588B1A229D51003A2CF0 /* button-page-active.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-page-active.png"; sourceTree = "<group>"; };
+		FC0B588C1A229D51003A2CF0 /* button-page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-page.png"; sourceTree = "<group>"; };
+		FC0B588D1A229D51003A2CF0 /* item-frappuchino-cinnamondolce.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "item-frappuchino-cinnamondolce.png"; sourceTree = "<group>"; };
+		FC0B588E1A229D51003A2CF0 /* item-frappuchino-cremebrulee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "item-frappuchino-cremebrulee.png"; sourceTree = "<group>"; };
+		FC0B588F1A229D51003A2CF0 /* item-frappuchino-doublechocolatychip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "item-frappuchino-doublechocolatychip.png"; sourceTree = "<group>"; };
+		FC0B58901A229D51003A2CF0 /* item-frappuchino-vanilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "item-frappuchino-vanilla.png"; sourceTree = "<group>"; };
+		FC0B58911A229D51003A2CF0 /* list-item-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "list-item-bg.png"; sourceTree = "<group>"; };
+		FC0B58921A229D51003A2CF0 /* list-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "list-selected.png"; sourceTree = "<group>"; };
+		FC0B58931A229D51003A2CF0 /* size-grande.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "size-grande.png"; sourceTree = "<group>"; };
+		FC0B58941A229D51003A2CF0 /* size-tall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "size-tall.png"; sourceTree = "<group>"; };
+		FC0B58951A229D51003A2CF0 /* size-venti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "size-venti.png"; sourceTree = "<group>"; };
+		FC0B58961A229D51003A2CF0 /* Starbucks_Corporation_Logo_2011.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Starbucks_Corporation_Logo_2011.svg.png; sourceTree = "<group>"; };
+		FC0B58971A229D51003A2CF0 /* Starbucks_logo_2011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Starbucks_logo_2011.png; sourceTree = "<group>"; };
+		FC3B65041A22B4EC00CB99B4 /* Total.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Total.h; sourceTree = "<group>"; };
+		FC3B65051A22B4EC00CB99B4 /* Total.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Total.m; sourceTree = "<group>"; };
+		FC3B65071A22B67600CB99B4 /* Finishr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Finishr.h; sourceTree = "<group>"; };
+		FC3B65081A22B67600CB99B4 /* Finishr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Finishr.m; sourceTree = "<group>"; };
 		FC558EEC1A2159C900256A28 /* watchkit1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = watchkit1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC558EF01A2159C900256A28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FC558EF11A2159C900256A28 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -42,6 +146,35 @@
 		FC558F081A2159CA00256A28 /* watchkit1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = watchkit1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC558F0D1A2159CA00256A28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FC558F0E1A2159CA00256A28 /* watchkit1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = watchkit1Tests.m; sourceTree = "<group>"; };
+		FC558F1C1A215AF300256A28 /* watchkit1 WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "watchkit1 WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC558F1E1A215AF300256A28 /* WatchKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WatchKit.framework; path = System/Library/Frameworks/WatchKit.framework; sourceTree = SDKROOT; };
+		FC558F221A215AF300256A28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC558F231A215AF300256A28 /* PushNotificationPayload.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PushNotificationPayload.json; sourceTree = "<group>"; };
+		FC558F241A215AF300256A28 /* InterfaceController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InterfaceController.h; sourceTree = "<group>"; };
+		FC558F251A215AF300256A28 /* InterfaceController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InterfaceController.m; sourceTree = "<group>"; };
+		FC558F271A215AF300256A28 /* NotificationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NotificationController.h; sourceTree = "<group>"; };
+		FC558F281A215AF300256A28 /* NotificationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NotificationController.m; sourceTree = "<group>"; };
+		FC558F2A1A215AF300256A28 /* GlanceController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GlanceController.h; sourceTree = "<group>"; };
+		FC558F2B1A215AF300256A28 /* GlanceController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GlanceController.m; sourceTree = "<group>"; };
+		FC558F2D1A215AF300256A28 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FC558F311A215AF300256A28 /* watchkit1 Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "watchkit1 Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC558F371A215AF300256A28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC558F381A215AF300256A28 /* Interface.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Interface.storyboard; sourceTree = "<group>"; };
+		FC558F3A1A215AF300256A28 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FC558F461A21652600256A28 /* step4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = step4.png; sourceTree = "<group>"; };
+		FC558F471A21652600256A28 /* step3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = step3.png; sourceTree = "<group>"; };
+		FC558F481A21652600256A28 /* step2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = step2.png; sourceTree = "<group>"; };
+		FC558F491A21652600256A28 /* step1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = step1.png; sourceTree = "<group>"; };
+		FC558F551A22724800256A28 /* MainData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainData.h; sourceTree = "<group>"; };
+		FC558F561A22724800256A28 /* MainData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainData.m; sourceTree = "<group>"; };
+		FC558F581A22751400256A28 /* watchkit1.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = watchkit1.entitlements; sourceTree = "<group>"; };
+		FC558F591A2275B200256A28 /* watchkit1 WatchKit Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "watchkit1 WatchKit Extension.entitlements"; sourceTree = "<group>"; };
+		FC5AA0B61A22A52300E633A9 /* SelectSizes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectSizes.h; sourceTree = "<group>"; };
+		FC5AA0B71A22A52300E633A9 /* SelectSizes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectSizes.m; sourceTree = "<group>"; };
+		FC5AA0B91A22A8FC00E633A9 /* Milk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Milk.h; sourceTree = "<group>"; };
+		FC5AA0BA1A22A8FC00E633A9 /* Milk.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Milk.m; sourceTree = "<group>"; };
+		FC5AA0BC1A22B07600E633A9 /* step7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = step7.png; sourceTree = "<group>"; };
+		FC5AA0BD1A22B07600E633A9 /* step6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = step6.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,14 +192,84 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FC558F191A215AF300256A28 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC558F1F1A215AF300256A28 /* WatchKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FC0B58771A229813003A2CF0 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = assets;
+			sourceTree = "<group>";
+		};
+		FC0B587B1A229C1D003A2CF0 /* old */ = {
+			isa = PBXGroup;
+			children = (
+				FC558F271A215AF300256A28 /* NotificationController.h */,
+				FC558F281A215AF300256A28 /* NotificationController.m */,
+				FC558F2A1A215AF300256A28 /* GlanceController.h */,
+				FC558F2B1A215AF300256A28 /* GlanceController.m */,
+			);
+			name = old;
+			sourceTree = "<group>";
+		};
+		FC0B587C1A229D0D003A2CF0 /* old */ = {
+			isa = PBXGroup;
+			children = (
+				FC558F461A21652600256A28 /* step4.png */,
+				FC558F471A21652600256A28 /* step3.png */,
+				FC558F481A21652600256A28 /* step2.png */,
+				FC558F491A21652600256A28 /* step1.png */,
+			);
+			name = old;
+			sourceTree = "<group>";
+		};
+		FC0B587D1A229D33003A2CF0 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				FC5AA0BC1A22B07600E633A9 /* step7.png */,
+				FC5AA0BD1A22B07600E633A9 /* step6.png */,
+				FC0B58881A229D51003A2CF0 /* Apple-Logo-black.png */,
+				FC0B58891A229D51003A2CF0 /* btn-applepay.png */,
+				FC0B588A1A229D51003A2CF0 /* btn-sbuxcard.png */,
+				FC0B588B1A229D51003A2CF0 /* button-page-active.png */,
+				FC0B588C1A229D51003A2CF0 /* button-page.png */,
+				FC0B588D1A229D51003A2CF0 /* item-frappuchino-cinnamondolce.png */,
+				FC0B588E1A229D51003A2CF0 /* item-frappuchino-cremebrulee.png */,
+				FC0B588F1A229D51003A2CF0 /* item-frappuchino-doublechocolatychip.png */,
+				FC0B58901A229D51003A2CF0 /* item-frappuchino-vanilla.png */,
+				FC0B58911A229D51003A2CF0 /* list-item-bg.png */,
+				FC0B58921A229D51003A2CF0 /* list-selected.png */,
+				FC0B58931A229D51003A2CF0 /* size-grande.png */,
+				FC0B58941A229D51003A2CF0 /* size-tall.png */,
+				FC0B58951A229D51003A2CF0 /* size-venti.png */,
+				FC0B58961A229D51003A2CF0 /* Starbucks_Corporation_Logo_2011.svg.png */,
+				FC0B58971A229D51003A2CF0 /* Starbucks_logo_2011.png */,
+				FC0B587E1A229D3E003A2CF0 /* item-Caramel-Brulee-Latte.png */,
+				FC0B587F1A229D3E003A2CF0 /* item-Chestnut-Praline-Latte.png */,
+				FC0B58801A229D3E003A2CF0 /* item-Eggnog-Latte.png */,
+				FC0B58811A229D3E003A2CF0 /* item-Gingerbread-Latte.png */,
+				FC0B58821A229D3E003A2CF0 /* item-Peppermint-Mocha.png */,
+			);
+			name = assets;
+			sourceTree = "<group>";
+		};
 		FC558EE31A2159C900256A28 = {
 			isa = PBXGroup;
 			children = (
 				FC558EEE1A2159C900256A28 /* watchkit1 */,
 				FC558F0B1A2159CA00256A28 /* watchkit1Tests */,
+				FC558F201A215AF300256A28 /* watchkit1 WatchKit Extension */,
+				FC558F351A215AF300256A28 /* watchkit1 Watch App */,
+				FC558F1D1A215AF300256A28 /* Frameworks */,
 				FC558EED1A2159C900256A28 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -76,6 +279,8 @@
 			children = (
 				FC558EEC1A2159C900256A28 /* watchkit1.app */,
 				FC558F081A2159CA00256A28 /* watchkit1Tests.xctest */,
+				FC558F1C1A215AF300256A28 /* watchkit1 WatchKit Extension.appex */,
+				FC558F311A215AF300256A28 /* watchkit1 Watch App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -83,6 +288,7 @@
 		FC558EEE1A2159C900256A28 /* watchkit1 */ = {
 			isa = PBXGroup;
 			children = (
+				FC558F581A22751400256A28 /* watchkit1.entitlements */,
 				FC558EF31A2159C900256A28 /* AppDelegate.h */,
 				FC558EF41A2159C900256A28 /* AppDelegate.m */,
 				FC558EF91A2159C900256A28 /* ViewController.h */,
@@ -92,6 +298,8 @@
 				FC558F011A2159C900256A28 /* LaunchScreen.xib */,
 				FC558EF61A2159C900256A28 /* watchkit1.xcdatamodeld */,
 				FC558EEF1A2159C900256A28 /* Supporting Files */,
+				FC558F551A22724800256A28 /* MainData.h */,
+				FC558F561A22724800256A28 /* MainData.m */,
 			);
 			path = watchkit1;
 			sourceTree = "<group>";
@@ -122,6 +330,69 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		FC558F1D1A215AF300256A28 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FC558F1E1A215AF300256A28 /* WatchKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FC558F201A215AF300256A28 /* watchkit1 WatchKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				FC0B587B1A229C1D003A2CF0 /* old */,
+				FC0B58771A229813003A2CF0 /* assets */,
+				FC558F591A2275B200256A28 /* watchkit1 WatchKit Extension.entitlements */,
+				FC558F241A215AF300256A28 /* InterfaceController.h */,
+				FC558F251A215AF300256A28 /* InterfaceController.m */,
+				FC0B58781A229980003A2CF0 /* Specials.h */,
+				FC0B58791A229980003A2CF0 /* Specials.m */,
+				FC5AA0B61A22A52300E633A9 /* SelectSizes.h */,
+				FC5AA0B71A22A52300E633A9 /* SelectSizes.m */,
+				FC0B58541A228FE4003A2CF0 /* CoffeeController.h */,
+				FC0B58551A228FE4003A2CF0 /* CoffeeController.m */,
+				FC558F2D1A215AF300256A28 /* Images.xcassets */,
+				FC558F211A215AF300256A28 /* Supporting Files */,
+				FC5AA0B91A22A8FC00E633A9 /* Milk.h */,
+				FC5AA0BA1A22A8FC00E633A9 /* Milk.m */,
+				FC3B65041A22B4EC00CB99B4 /* Total.h */,
+				FC3B65051A22B4EC00CB99B4 /* Total.m */,
+				FC3B65071A22B67600CB99B4 /* Finishr.h */,
+				FC3B65081A22B67600CB99B4 /* Finishr.m */,
+			);
+			path = "watchkit1 WatchKit Extension";
+			sourceTree = "<group>";
+		};
+		FC558F211A215AF300256A28 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FC558F221A215AF300256A28 /* Info.plist */,
+				FC558F231A215AF300256A28 /* PushNotificationPayload.json */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FC558F351A215AF300256A28 /* watchkit1 Watch App */ = {
+			isa = PBXGroup;
+			children = (
+				FC558F381A215AF300256A28 /* Interface.storyboard */,
+				FC0B587D1A229D33003A2CF0 /* assets */,
+				FC0B587C1A229D0D003A2CF0 /* old */,
+				FC558F3A1A215AF300256A28 /* Images.xcassets */,
+				FC558F361A215AF300256A28 /* Supporting Files */,
+			);
+			path = "watchkit1 Watch App";
+			sourceTree = "<group>";
+		};
+		FC558F361A215AF300256A28 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FC558F371A215AF300256A28 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,10 +403,12 @@
 				FC558EE81A2159C900256A28 /* Sources */,
 				FC558EE91A2159C900256A28 /* Frameworks */,
 				FC558EEA1A2159C900256A28 /* Resources */,
+				FC558F451A215AF300256A28 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				FC558F3D1A215AF300256A28 /* PBXTargetDependency */,
 			);
 			name = watchkit1;
 			productName = watchkit1;
@@ -160,6 +433,39 @@
 			productReference = FC558F081A2159CA00256A28 /* watchkit1Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+		FC558F1B1A215AF300256A28 /* watchkit1 WatchKit Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC558F421A215AF300256A28 /* Build configuration list for PBXNativeTarget "watchkit1 WatchKit Extension" */;
+			buildPhases = (
+				FC558F181A215AF300256A28 /* Sources */,
+				FC558F191A215AF300256A28 /* Frameworks */,
+				FC558F1A1A215AF300256A28 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FC558F341A215AF300256A28 /* PBXTargetDependency */,
+			);
+			name = "watchkit1 WatchKit Extension";
+			productName = "watchkit1 WatchKit Extension";
+			productReference = FC558F1C1A215AF300256A28 /* watchkit1 WatchKit Extension.appex */;
+			productType = "com.apple.product-type.watchkit-extension";
+		};
+		FC558F301A215AF300256A28 /* watchkit1 Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC558F3F1A215AF300256A28 /* Build configuration list for PBXNativeTarget "watchkit1 Watch App" */;
+			buildPhases = (
+				FC558F2F1A215AF300256A28 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "watchkit1 Watch App";
+			productName = "watchkit1 Watch App";
+			productReference = FC558F311A215AF300256A28 /* watchkit1 Watch App.app */;
+			productType = "com.apple.product-type.application.watchapp";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -171,10 +477,29 @@
 				TargetAttributes = {
 					FC558EEB1A2159C900256A28 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 5Y63U6G7W6;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					FC558F071A2159CA00256A28 = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = FC558EEB1A2159C900256A28;
+					};
+					FC558F1B1A215AF300256A28 = {
+						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 5Y63U6G7W6;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					FC558F301A215AF300256A28 = {
+						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 5Y63U6G7W6;
 					};
 				};
 			};
@@ -193,6 +518,8 @@
 			targets = (
 				FC558EEB1A2159C900256A28 /* watchkit1 */,
 				FC558F071A2159CA00256A28 /* watchkit1Tests */,
+				FC558F1B1A215AF300256A28 /* watchkit1 WatchKit Extension */,
+				FC558F301A215AF300256A28 /* watchkit1 Watch App */,
 			);
 		};
 /* End PBXProject section */
@@ -202,8 +529,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC558F4A1A21652600256A28 /* step4.png in Resources */,
+				FC558F501A21652600256A28 /* step1.png in Resources */,
 				FC558EFE1A2159C900256A28 /* Main.storyboard in Resources */,
+				FC558F4C1A21652600256A28 /* step3.png in Resources */,
 				FC558F031A2159C900256A28 /* LaunchScreen.xib in Resources */,
+				FC558F4E1A21652600256A28 /* step2.png in Resources */,
 				FC558F001A2159C900256A28 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -215,6 +546,51 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FC558F1A1A215AF300256A28 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC558F321A215AF300256A28 /* watchkit1 Watch App.app in Resources */,
+				FC558F2E1A215AF300256A28 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC558F2F1A215AF300256A28 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC0B58981A229D51003A2CF0 /* Apple-Logo-black.png in Resources */,
+				FC0B589D1A229D51003A2CF0 /* item-frappuchino-cinnamondolce.png in Resources */,
+				FC0B58851A229D3E003A2CF0 /* item-Eggnog-Latte.png in Resources */,
+				FC558F391A215AF300256A28 /* Interface.storyboard in Resources */,
+				FC0B58A21A229D51003A2CF0 /* list-selected.png in Resources */,
+				FC558F511A21652600256A28 /* step1.png in Resources */,
+				FC0B58A71A229D51003A2CF0 /* Starbucks_logo_2011.png in Resources */,
+				FC0B589C1A229D51003A2CF0 /* button-page.png in Resources */,
+				FC558F4B1A21652600256A28 /* step4.png in Resources */,
+				FC0B58991A229D51003A2CF0 /* btn-applepay.png in Resources */,
+				FC0B58A01A229D51003A2CF0 /* item-frappuchino-vanilla.png in Resources */,
+				FC0B58A61A229D51003A2CF0 /* Starbucks_Corporation_Logo_2011.svg.png in Resources */,
+				FC0B58861A229D3E003A2CF0 /* item-Gingerbread-Latte.png in Resources */,
+				FC0B589E1A229D51003A2CF0 /* item-frappuchino-cremebrulee.png in Resources */,
+				FC0B589B1A229D51003A2CF0 /* button-page-active.png in Resources */,
+				FC5AA0BF1A22B07600E633A9 /* step6.png in Resources */,
+				FC0B589F1A229D51003A2CF0 /* item-frappuchino-doublechocolatychip.png in Resources */,
+				FC0B58841A229D3E003A2CF0 /* item-Chestnut-Praline-Latte.png in Resources */,
+				FC0B58831A229D3E003A2CF0 /* item-Caramel-Brulee-Latte.png in Resources */,
+				FC5AA0BE1A22B07600E633A9 /* step7.png in Resources */,
+				FC0B589A1A229D51003A2CF0 /* btn-sbuxcard.png in Resources */,
+				FC558F3B1A215AF300256A28 /* Images.xcassets in Resources */,
+				FC0B58A31A229D51003A2CF0 /* size-grande.png in Resources */,
+				FC0B58871A229D3E003A2CF0 /* item-Peppermint-Mocha.png in Resources */,
+				FC0B58A51A229D51003A2CF0 /* size-venti.png in Resources */,
+				FC558F4D1A21652600256A28 /* step3.png in Resources */,
+				FC558F4F1A21652600256A28 /* step2.png in Resources */,
+				FC0B58A41A229D51003A2CF0 /* size-tall.png in Resources */,
+				FC0B58A11A229D51003A2CF0 /* list-item-bg.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -222,6 +598,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC558F571A22724800256A28 /* MainData.m in Sources */,
 				FC558EF81A2159C900256A28 /* watchkit1.xcdatamodeld in Sources */,
 				FC558EF51A2159C900256A28 /* AppDelegate.m in Sources */,
 				FC558EFB1A2159C900256A28 /* ViewController.m in Sources */,
@@ -237,6 +614,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FC558F181A215AF300256A28 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC558F291A215AF300256A28 /* NotificationController.m in Sources */,
+				FC3B65091A22B67600CB99B4 /* Finishr.m in Sources */,
+				FC0B58561A228FE4003A2CF0 /* CoffeeController.m in Sources */,
+				FC5AA0B81A22A52300E633A9 /* SelectSizes.m in Sources */,
+				FC558F261A215AF300256A28 /* InterfaceController.m in Sources */,
+				FC5AA0BB1A22A8FC00E633A9 /* Milk.m in Sources */,
+				FC0B587A1A229980003A2CF0 /* Specials.m in Sources */,
+				FC3B65061A22B4EC00CB99B4 /* Total.m in Sources */,
+				FC558F2C1A215AF300256A28 /* GlanceController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -244,6 +637,16 @@
 			isa = PBXTargetDependency;
 			target = FC558EEB1A2159C900256A28 /* watchkit1 */;
 			targetProxy = FC558F091A2159CA00256A28 /* PBXContainerItemProxy */;
+		};
+		FC558F341A215AF300256A28 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FC558F301A215AF300256A28 /* watchkit1 Watch App */;
+			targetProxy = FC558F331A215AF300256A28 /* PBXContainerItemProxy */;
+		};
+		FC558F3D1A215AF300256A28 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FC558F1B1A215AF300256A28 /* watchkit1 WatchKit Extension */;
+			targetProxy = FC558F3C1A215AF300256A28 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -347,9 +750,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = watchkit1/watchkit1.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = watchkit1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -357,9 +764,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = watchkit1/watchkit1.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = watchkit1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -397,6 +808,72 @@
 			};
 			name = Release;
 		};
+		FC558F401A215AF300256A28 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				IBSC_MODULE = watchkit1_WatchKit_Extension;
+				INFOPLIST_FILE = "watchkit1 Watch App/Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Debug;
+		};
+		FC558F411A215AF300256A28 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				IBSC_MODULE = watchkit1_WatchKit_Extension;
+				INFOPLIST_FILE = "watchkit1 Watch App/Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+				"TARGETED_DEVICE_FAMILY[sdk=iphonesimulator*]" = "1,4";
+			};
+			name = Release;
+		};
+		FC558F431A215AF300256A28 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "watchkit1 WatchKit Extension/watchkit1 WatchKit Extension.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "watchkit1 WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				PROVISIONING_PROFILE = "b1bb94e0-fbfd-4a17-8e84-78ffd0802e3b";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		FC558F441A215AF300256A28 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "watchkit1 WatchKit Extension/watchkit1 WatchKit Extension.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "watchkit1 WatchKit Extension/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "${TARGET_NAME}";
+				PROVISIONING_PROFILE = "b1bb94e0-fbfd-4a17-8e84-78ffd0802e3b";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -416,6 +893,7 @@
 				FC558F141A2159CA00256A28 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FC558F151A2159CA00256A28 /* Build configuration list for PBXNativeTarget "watchkit1Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +902,25 @@
 				FC558F171A2159CA00256A28 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FC558F3F1A215AF300256A28 /* Build configuration list for PBXNativeTarget "watchkit1 Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC558F401A215AF300256A28 /* Debug */,
+				FC558F411A215AF300256A28 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FC558F421A215AF300256A28 /* Build configuration list for PBXNativeTarget "watchkit1 WatchKit Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC558F431A215AF300256A28 /* Debug */,
+				FC558F441A215AF300256A28 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

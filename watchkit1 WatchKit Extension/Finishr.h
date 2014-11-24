@@ -10,4 +10,6 @@
 
 @interface Finishr : WKInterfaceController
 
+-(IBAction) jump;
+
 @end
