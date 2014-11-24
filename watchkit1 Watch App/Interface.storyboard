@@ -12,12 +12,12 @@
                     <items>
                         <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="gEi-pm-xqL">
                             <items>
-                                <label alignment="center" text="Caramel Brulee" id="sV5-Si-Gh9"/>
                                 <button width="80" height="80" alignment="center" verticalAlignment="center" backgroundImage="item-Caramel-Brulee-Latte" id="vkw-Si-eKU">
                                     <connections>
                                         <segue destination="W5H-0i-fhE" kind="modal" id="hNn-0W-cdy"/>
                                     </connections>
                                 </button>
+                                <label alignment="center" verticalAlignment="center" text="Caramel Brulee" id="sV5-Si-Gh9"/>
                             </items>
                         </group>
                         <group width="1" alignment="left" hidden="YES" alpha="0.0" hasDetent="YES" id="T6t-XX-3pH">
@@ -55,12 +55,12 @@
                     <items>
                         <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="eMn-mP-g6I">
                             <items>
-                                <label alignment="center" text="Chestnut" id="lXO-FO-JEo"/>
                                 <button width="85" height="85" alignment="center" verticalAlignment="center" backgroundImage="item-Chestnut-Praline-Latte" id="tO2-YW-ikL">
                                     <connections>
                                         <segue destination="W5H-0i-fhE" kind="modal" id="fVo-BM-ggl"/>
                                     </connections>
                                 </button>
+                                <label alignment="center" verticalAlignment="center" text="Chestnut" id="lXO-FO-JEo"/>
                             </items>
                         </group>
                     </items>
@@ -97,15 +97,15 @@
                     <items>
                         <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="i8n-RY-MVY">
                             <items>
-                                <label alignment="center" text="TALL" textAlignment="center" id="6FQ-nJ-dOg">
-                                    <fontDescription key="font" type="boldSystem" pointSize="16"/>
-                                </label>
                                 <button width="47" height="69" alignment="center" verticalAlignment="center" backgroundImage="size-tall" id="Leu-Jd-0d2">
                                     <connections>
                                         <action selector="jump" destination="W5H-0i-fhE" id="M1C-Zo-8qn"/>
                                         <segue destination="uvm-kq-Q2V" kind="modal" id="EZx-lx-7Yg"/>
                                     </connections>
                                 </button>
+                                <label alignment="center" verticalAlignment="center" text="TALL" textAlignment="center" id="6FQ-nJ-dOg">
+                                    <fontDescription key="font" type="boldSystem" pointSize="16"/>
+                                </label>
                             </items>
                         </group>
                     </items>
@@ -123,12 +123,12 @@
                     <items>
                         <group width="1" alignment="center" verticalAlignment="center" layout="vertical" hasDetent="YES" id="NYJ-Q4-tIR">
                             <items>
-                                <label alignment="center" text="Eggnog" id="C6R-jI-ZUi"/>
                                 <button width="77" height="77" alignment="center" verticalAlignment="center" backgroundImage="item-Eggnog-Latte" id="SNa-Ra-BYp">
                                     <connections>
                                         <segue destination="W5H-0i-fhE" kind="modal" id="VhO-gE-d32"/>
                                     </connections>
                                 </button>
+                                <label alignment="center" verticalAlignment="center" text="Eggnog" id="C6R-jI-ZUi"/>
                             </items>
                         </group>
                     </items>
@@ -146,12 +146,12 @@
                     <items>
                         <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="syA-EI-Bas">
                             <items>
-                                <label alignment="center" text="Gingerbread" id="WR0-VW-Pfd"/>
                                 <button width="83" height="83" alignment="center" verticalAlignment="center" backgroundImage="item-Gingerbread-Latte" id="cSO-J5-bzH">
                                     <connections>
                                         <segue destination="W5H-0i-fhE" kind="modal" id="J8Z-gd-Zss"/>
                                     </connections>
                                 </button>
+                                <label alignment="center" verticalAlignment="center" text="Gingerbread" id="WR0-VW-Pfd"/>
                             </items>
                         </group>
                     </items>
@@ -210,12 +210,12 @@
                     <items>
                         <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="2yB-xs-PCM">
                             <items>
-                                <label alignment="center" text="Peppermint" id="nC8-f7-DGY"/>
                                 <button width="83" height="83" alignment="center" verticalAlignment="center" backgroundImage="item-Peppermint-Mocha" id="rmx-2O-Cr1">
                                     <connections>
                                         <segue destination="W5H-0i-fhE" kind="modal" id="dz4-Bj-sOU"/>
                                     </connections>
                                 </button>
+                                <label alignment="center" verticalAlignment="center" text="Peppermint" id="nC8-f7-DGY"/>
                             </items>
                         </group>
                     </items>
@@ -233,12 +233,12 @@
                     <items>
                         <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="yIJ-WZ-0iL">
                             <items>
-                                <label alignment="center" text="CremeBrulee" id="SUh-9W-L3y"/>
                                 <button width="85" height="85" alignment="center" verticalAlignment="center" backgroundImage="item-frappuchino-cremebrulee" id="Gj7-2u-EI0">
                                     <connections>
                                         <segue destination="W5H-0i-fhE" kind="modal" id="153-pk-UkN"/>
                                     </connections>
                                 </button>
+                                <label alignment="center" verticalAlignment="center" text="CremeBrulee" id="SUh-9W-L3y"/>
                             </items>
                         </group>
                     </items>
@@ -272,12 +272,12 @@
                     <items>
                         <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="XTX-WX-Bto">
                             <items>
-                                <label alignment="center" text="Cinnamondolce" id="oT4-a2-VnJ"/>
-                                <button width="83" height="83" alignment="center" verticalAlignment="center" backgroundImage="item-frappuchino-cinnamondolce" id="AgT-cb-rR2">
+                                <button width="94" height="94" alignment="center" verticalAlignment="center" backgroundImage="item-frappuchino-cinnamondolce" id="AgT-cb-rR2">
                                     <connections>
                                         <segue destination="W5H-0i-fhE" kind="modal" id="yee-ww-2Ql"/>
                                     </connections>
                                 </button>
+                                <label alignment="center" verticalAlignment="center" text="Cinnamon" id="oT4-a2-VnJ"/>
                             </items>
                         </group>
                     </items>
@@ -292,15 +292,15 @@
                     <items>
                         <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="rDw-6i-rJB">
                             <items>
-                                <label alignment="center" text="GRANDE" textAlignment="center" id="7Vi-JQ-2Qo">
-                                    <fontDescription key="font" type="boldSystem" pointSize="16"/>
-                                </label>
                                 <button width="52" height="87" alignment="center" verticalAlignment="center" backgroundImage="size-grande" id="QUl-ii-q8H">
                                     <connections>
                                         <action selector="jump" destination="gWQ-e5-HHW" id="cWD-ca-Io8"/>
                                         <segue destination="uvm-kq-Q2V" kind="modal" id="ShH-ba-cwb"/>
                                     </connections>
                                 </button>
+                                <label alignment="center" verticalAlignment="center" text="GRANDE" textAlignment="center" id="7Vi-JQ-2Qo">
+                                    <fontDescription key="font" type="boldSystem" pointSize="16"/>
+                                </label>
                             </items>
                         </group>
                     </items>
@@ -318,13 +318,13 @@
                     <items>
                         <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="pbx-9P-MXZ">
                             <items>
-                                <button width="59" height="118" alignment="center" verticalAlignment="center" backgroundImage="size-venti" id="lRJ-si-mBW">
+                                <button width="63" height="112" alignment="center" verticalAlignment="center" backgroundImage="size-venti" id="lRJ-si-mBW">
                                     <connections>
                                         <action selector="jump" destination="ow0-fx-cI8" id="Z9l-Y4-1rR"/>
                                         <segue destination="uvm-kq-Q2V" kind="modal" id="s50-So-D6Q"/>
                                     </connections>
                                 </button>
-                                <label alignment="center" text="VENTI" textAlignment="center" id="j18-vq-0ZO">
+                                <label alignment="center" verticalAlignment="center" text="VENTI" textAlignment="center" id="j18-vq-0ZO">
                                     <fontDescription key="font" type="boldSystem" pointSize="16"/>
                                 </label>
                             </items>
@@ -353,7 +353,7 @@
                                 </group>
                                 <group width="1" alignment="left" id="lQq-Vd-mgY">
                                     <items>
-                                        <button width="20" height="20" alignment="left" verticalAlignment="center" hidden="YES" backgroundImage="list-selected" id="6ec-xP-aw5"/>
+                                        <button width="20" height="20" alignment="left" verticalAlignment="center" backgroundImage="list-selected" id="6ec-xP-aw5"/>
                                         <button alignment="center" title="Nonfat Milk" id="v4C-zq-FYN">
                                             <connections>
                                                 <segue destination="wmF-5Q-mbN" kind="modal" id="1R8-2u-cg9"/>
@@ -499,8 +499,8 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="153-pk-UkN"/>
-        <segue reference="s50-So-D6Q"/>
+        <segue reference="yee-ww-2Ql"/>
+        <segue reference="ShH-ba-cwb"/>
         <segue reference="Fdb-sh-x6E"/>
     </inferredMetricsTieBreakers>
 </document>
