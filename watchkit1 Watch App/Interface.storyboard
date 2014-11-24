@@ -5,12 +5,12 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="3734"/>
     </dependencies>
     <scenes>
-        <!--   -->
+        <!--Special-->
         <scene sceneID="aou-V4-d1y">
             <objects>
-                <controller identifier="special1" title="   " animationDuration="1" id="AgC-eL-Hgc" customClass="InterfaceController">
+                <controller identifier="special1" title="Special" animationDuration="1" id="AgC-eL-Hgc" customClass="InterfaceController">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="gEi-pm-xqL">
+                        <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="gEi-pm-xqL">
                             <items>
                                 <label alignment="center" text="Caramel Brulee" id="sV5-Si-Gh9"/>
                                 <button width="80" height="80" alignment="center" verticalAlignment="center" backgroundImage="item-Caramel-Brulee-Latte" id="vkw-Si-eKU">
@@ -48,14 +48,14 @@
             </objects>
             <point key="canvasLocation" x="203" y="242"/>
         </scene>
-        <!--   -->
+        <!--Special-->
         <scene sceneID="23j-aa-ecU">
             <objects>
-                <controller identifier="special2" title="   " id="M58-vn-XMp" customClass="InterfaceController">
+                <controller identifier="special2" title="Special" id="M58-vn-XMp" customClass="InterfaceController">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="eMn-mP-g6I">
+                        <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="eMn-mP-g6I">
                             <items>
-                                <label alignment="center" text="Chestnut Praline" id="lXO-FO-JEo"/>
+                                <label alignment="center" text="Chestnut" id="lXO-FO-JEo"/>
                                 <button width="85" height="85" alignment="center" verticalAlignment="center" backgroundImage="item-Chestnut-Praline-Latte" id="tO2-YW-ikL">
                                     <connections>
                                         <segue destination="W5H-0i-fhE" kind="modal" id="fVo-BM-ggl"/>
@@ -90,12 +90,12 @@
             </objects>
             <point key="canvasLocation" x="-77" y="568"/>
         </scene>
-        <!--  -->
+        <!--Size-->
         <scene sceneID="BfU-Ze-gfn">
             <objects>
-                <controller title="  " id="W5H-0i-fhE" customClass="SelectSizes">
+                <controller title="Size" id="W5H-0i-fhE" customClass="SelectSizes">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="i8n-RY-MVY">
+                        <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="i8n-RY-MVY">
                             <items>
                                 <label alignment="center" text="TALL" textAlignment="center" id="6FQ-nJ-dOg">
                                     <fontDescription key="font" type="boldSystem" pointSize="16"/>
@@ -116,12 +116,12 @@
             </objects>
             <point key="canvasLocation" x="280" y="853"/>
         </scene>
-        <!--   -->
+        <!--Special-->
         <scene sceneID="hNJ-kq-zeh">
             <objects>
-                <controller identifier="special3" title="   " id="Xjw-0R-Kvd" customClass="Specials">
+                <controller identifier="special3" title="Special" id="Xjw-0R-Kvd" customClass="Specials">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="NYJ-Q4-tIR">
+                        <group width="1" alignment="center" verticalAlignment="center" layout="vertical" hasDetent="YES" id="NYJ-Q4-tIR">
                             <items>
                                 <label alignment="center" text="Eggnog" id="C6R-jI-ZUi"/>
                                 <button width="77" height="77" alignment="center" verticalAlignment="center" backgroundImage="item-Eggnog-Latte" id="SNa-Ra-BYp">
@@ -139,12 +139,12 @@
             </objects>
             <point key="canvasLocation" x="616" y="608"/>
         </scene>
-        <!--   -->
+        <!--Special-->
         <scene sceneID="KkX-2s-90O">
             <objects>
-                <controller identifier="special4" title="   " id="7EH-ze-jmo" customClass="InterfaceController">
+                <controller identifier="special4" title="Special" id="7EH-ze-jmo" customClass="InterfaceController">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="syA-EI-Bas">
+                        <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="syA-EI-Bas">
                             <items>
                                 <label alignment="center" text="Gingerbread" id="WR0-VW-Pfd"/>
                                 <button width="83" height="83" alignment="center" verticalAlignment="center" backgroundImage="item-Gingerbread-Latte" id="cSO-J5-bzH">
@@ -203,12 +203,12 @@
             </objects>
             <point key="canvasLocation" x="-31" y="197"/>
         </scene>
-        <!--   -->
+        <!--Special-->
         <scene sceneID="NQa-UG-qhZ">
             <objects>
-                <controller identifier="special5" title="   " id="EAO-RO-5yX" customClass="InterfaceController">
+                <controller identifier="special5" title="Special" id="EAO-RO-5yX" customClass="InterfaceController">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="2yB-xs-PCM">
+                        <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="2yB-xs-PCM">
                             <items>
                                 <label alignment="center" text="Peppermint" id="nC8-f7-DGY"/>
                                 <button width="83" height="83" alignment="center" verticalAlignment="center" backgroundImage="item-Peppermint-Mocha" id="rmx-2O-Cr1">
@@ -224,14 +224,14 @@
                     </connections>
                 </controller>
             </objects>
-            <point key="canvasLocation" x="999" y="834"/>
+            <point key="canvasLocation" x="1043" y="918"/>
         </scene>
-        <!--   -->
+        <!--Frapp-->
         <scene sceneID="My5-Jm-fo6">
             <objects>
-                <controller identifier="special6" title="   " id="9JG-yb-1rl" customClass="InterfaceController">
+                <controller identifier="special6" title="Frapp" id="9JG-yb-1rl" customClass="InterfaceController">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="yIJ-WZ-0iL">
+                        <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="yIJ-WZ-0iL">
                             <items>
                                 <label alignment="center" text="CremeBrulee" id="SUh-9W-L3y"/>
                                 <button width="85" height="85" alignment="center" verticalAlignment="center" backgroundImage="item-frappuchino-cremebrulee" id="Gj7-2u-EI0">
@@ -247,12 +247,12 @@
                     </connections>
                 </controller>
             </objects>
-            <point key="canvasLocation" x="508" y="1136"/>
+            <point key="canvasLocation" x="552" y="1184"/>
         </scene>
-        <!--   -->
+        <!--Payment-->
         <scene sceneID="l8Z-GZ-oiA">
             <objects>
-                <controller identifier="cards" title="   " id="E5o-tW-yLH" customClass="Finishr">
+                <controller identifier="cards" title="Payment" id="E5o-tW-yLH" customClass="Finishr">
                     <items>
                         <button width="1" height="1" alignment="left" backgroundImage="step6.png" id="PE5-0f-AeD">
                             <connections>
@@ -265,12 +265,12 @@
             </objects>
             <point key="canvasLocation" x="119" y="1598.75"/>
         </scene>
-        <!--   -->
+        <!--Frapp-->
         <scene sceneID="Ivv-AS-54A">
             <objects>
-                <controller identifier="special7" title="   " id="4Lt-Nk-yjD" customClass="InterfaceController">
+                <controller identifier="special7" title="Frapp" id="4Lt-Nk-yjD" customClass="InterfaceController">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="XTX-WX-Bto">
+                        <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="XTX-WX-Bto">
                             <items>
                                 <label alignment="center" text="Cinnamondolce" id="oT4-a2-VnJ"/>
                                 <button width="83" height="83" alignment="center" verticalAlignment="center" backgroundImage="item-frappuchino-cinnamondolce" id="AgT-cb-rR2">
@@ -283,14 +283,14 @@
                     </items>
                 </controller>
             </objects>
-            <point key="canvasLocation" x="897" y="1120"/>
+            <point key="canvasLocation" x="875" y="1176"/>
         </scene>
-        <!--  -->
+        <!--Size-->
         <scene sceneID="jus-Ob-Oga">
             <objects>
-                <controller title="  " id="gWQ-e5-HHW" customClass="SelectSizes">
+                <controller title="Size" id="gWQ-e5-HHW" customClass="SelectSizes">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="rDw-6i-rJB">
+                        <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="rDw-6i-rJB">
                             <items>
                                 <label alignment="center" text="GRANDE" textAlignment="center" id="7Vi-JQ-2Qo">
                                     <fontDescription key="font" type="boldSystem" pointSize="16"/>
@@ -311,12 +311,12 @@
             </objects>
             <point key="canvasLocation" x="32" y="842"/>
         </scene>
-        <!--  -->
+        <!--Size-->
         <scene sceneID="odp-LT-8yi">
             <objects>
-                <controller title="  " id="ow0-fx-cI8" customClass="SelectSizes">
+                <controller title="Size" id="ow0-fx-cI8" customClass="SelectSizes">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="pbx-9P-MXZ">
+                        <group width="1" alignment="left" verticalAlignment="center" layout="vertical" hasDetent="YES" id="pbx-9P-MXZ">
                             <items>
                                 <button width="59" height="118" alignment="center" verticalAlignment="center" backgroundImage="size-venti" id="lRJ-si-mBW">
                                     <connections>
@@ -334,17 +334,17 @@
             </objects>
             <point key="canvasLocation" x="-178" y="821"/>
         </scene>
-        <!--   -->
+        <!--Customize-->
         <scene sceneID="mlX-ef-SIT">
             <objects>
-                <controller identifier="milk" title="   " id="uvm-kq-Q2V" customClass="Milk">
+                <controller identifier="milk" title="Customize" id="uvm-kq-Q2V" customClass="Milk">
                     <items>
-                        <group width="1" alignment="left" layout="vertical" hasDetent="YES" id="8Yi-qn-UL0">
+                        <group width="1" alignment="center" layout="vertical" hasDetent="YES" id="8Yi-qn-UL0">
                             <items>
-                                <group width="1" alignment="left" id="6AU-aX-2nv">
+                                <group width="1" alignment="center" id="6AU-aX-2nv">
                                     <items>
                                         <button width="20" height="20" alignment="left" verticalAlignment="center" hidden="YES" backgroundImage="list-selected" id="ZSY-5K-h4H"/>
-                                        <button alignment="right" title="Whole Milk" id="0zR-aR-9KV">
+                                        <button alignment="center" title="Whole Milk" id="0zR-aR-9KV">
                                             <connections>
                                                 <segue destination="wmF-5Q-mbN" kind="modal" id="3sz-sF-bWR"/>
                                             </connections>
@@ -354,7 +354,7 @@
                                 <group width="1" alignment="left" id="lQq-Vd-mgY">
                                     <items>
                                         <button width="20" height="20" alignment="left" verticalAlignment="center" hidden="YES" backgroundImage="list-selected" id="6ec-xP-aw5"/>
-                                        <button alignment="right" title="Nonfat Milk" id="v4C-zq-FYN">
+                                        <button alignment="center" title="Nonfat Milk" id="v4C-zq-FYN">
                                             <connections>
                                                 <segue destination="wmF-5Q-mbN" kind="modal" id="1R8-2u-cg9"/>
                                             </connections>
@@ -364,7 +364,7 @@
                                 <group width="1" alignment="left" id="JAa-Ox-DGf">
                                     <items>
                                         <button width="20" height="20" alignment="left" verticalAlignment="center" hidden="YES" backgroundImage="list-selected" id="WMH-hD-ghH"/>
-                                        <button alignment="right" title="2% MilK" id="zpd-65-z2K">
+                                        <button alignment="center" title="2% MilK" id="zpd-65-z2K">
                                             <connections>
                                                 <segue destination="wmF-5Q-mbN" kind="modal" id="I2a-D5-m67"/>
                                             </connections>
@@ -374,7 +374,7 @@
                                 <group width="1" alignment="left" id="4li-T9-N7m">
                                     <items>
                                         <button width="20" height="20" alignment="left" verticalAlignment="center" hidden="YES" backgroundImage="list-selected" id="ugI-ap-1Za"/>
-                                        <button alignment="right" title="Soy Milk" id="QUx-Sj-2gD">
+                                        <button alignment="center" title="Soy Milk" id="QUx-Sj-2gD">
                                             <connections>
                                                 <segue destination="wmF-5Q-mbN" kind="modal" id="oFW-Tf-Htb"/>
                                             </connections>
@@ -384,7 +384,7 @@
                                 <group width="1" alignment="left" id="30m-xL-6Qs">
                                     <items>
                                         <button width="20" height="20" alignment="left" verticalAlignment="center" hidden="YES" backgroundImage="list-selected" id="NZu-8z-jpY"/>
-                                        <button alignment="right" title="Half &amp; Half" id="2Lm-KK-Emq">
+                                        <button alignment="center" title="Half &amp; Half" id="2Lm-KK-Emq">
                                             <connections>
                                                 <segue destination="wmF-5Q-mbN" kind="modal" id="Fdb-sh-x6E"/>
                                             </connections>
@@ -398,18 +398,19 @@
             </objects>
             <point key="canvasLocation" x="-114" y="1226.25"/>
         </scene>
-        <!--   -->
+        <!--Total-->
         <scene sceneID="UyE-se-1G8">
             <objects>
-                <controller title="   " id="wmF-5Q-mbN" customClass="Total">
+                <controller title="Total" id="wmF-5Q-mbN" customClass="Total">
                     <items>
                         <group width="1" alignment="left" hasDetent="YES" id="ibB-6g-ABs">
                             <items>
-                                <label alignment="center" text="ORDER TOTAL" textAlignment="center" id="FfP-0T-dvf">
+                                <label alignment="center" textAlignment="center" id="FfP-0T-dvf">
                                     <color key="textColor" red="0.80935108420000001" green="0.80935108420000001" blue="0.80935108420000001" alpha="1" colorSpace="calibratedRGB"/>
                                     <fontDescription key="font" type="boldSystem" pointSize="13"/>
                                 </label>
                             </items>
+                            <edgeInsets key="margins" left="0.0" right="0.0" top="12" bottom="0.0"/>
                         </group>
                         <group width="1" alignment="left" hasDetent="YES" id="XjX-Q8-rgo">
                             <items>
@@ -463,21 +464,43 @@
             </objects>
             <point key="canvasLocation" x="327" y="1176"/>
         </scene>
-        <!--   -->
+        <!--Sent-->
         <scene sceneID="mQz-kA-u1F">
             <objects>
-                <controller identifier="finish" title="   " id="JmM-3H-Xz3">
+                <controller identifier="finish" title="Sent" id="JmM-3H-Xz3" customClass="Ready">
                     <items>
-                        <button width="1" height="1" alignment="left" title="Button" backgroundImage="step7.png" id="rEC-uP-mRh"/>
+                        <button width="1" height="1" alignment="left" backgroundImage="step7.png" id="rEC-uP-mRh">
+                            <connections>
+                                <action selector="jump" destination="JmM-3H-Xz3" id="yno-JL-L9v"/>
+                            </connections>
+                        </button>
                     </items>
                 </controller>
             </objects>
-            <point key="canvasLocation" x="653" y="1367.75"/>
+            <point key="canvasLocation" x="583" y="1504"/>
+        </scene>
+        <!--Alert-->
+        <scene sceneID="Zyh-md-1m4">
+            <objects>
+                <controller identifier="ready" title="Alert" id="bDD-gH-5X9">
+                    <items>
+                        <group width="1" height="1" alignment="left" layout="vertical" hasDetent="YES" id="thw-hU-SmL">
+                            <items>
+                                <imageView width="75" height="75" alignment="center" verticalAlignment="center" image="Starbucks_Corporation_Logo_2011.svg" id="Dbk-KZ-fyz"/>
+                                <label alignment="center" text="Your Order is Ready" textAlignment="center" numberOfLines="2" id="Ehc-Xl-aBF">
+                                    <fontDescription key="font" type="boldSystem" pointSize="21"/>
+                                </label>
+                            </items>
+                        </group>
+                    </items>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="835" y="1584"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="153-pk-UkN"/>
-        <segue reference="EZx-lx-7Yg"/>
+        <segue reference="s50-So-D6Q"/>
         <segue reference="Fdb-sh-x6E"/>
     </inferredMetricsTieBreakers>
 </document>

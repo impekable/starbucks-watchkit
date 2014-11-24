@@ -30,6 +30,7 @@
 		FC0B58A51A229D51003A2CF0 /* size-venti.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58951A229D51003A2CF0 /* size-venti.png */; };
 		FC0B58A61A229D51003A2CF0 /* Starbucks_Corporation_Logo_2011.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58961A229D51003A2CF0 /* Starbucks_Corporation_Logo_2011.svg.png */; };
 		FC0B58A71A229D51003A2CF0 /* Starbucks_logo_2011.png in Resources */ = {isa = PBXBuildFile; fileRef = FC0B58971A229D51003A2CF0 /* Starbucks_logo_2011.png */; };
+		FC38D14D1A22BCFF0080AD74 /* Ready.m in Sources */ = {isa = PBXBuildFile; fileRef = FC38D14C1A22BCFF0080AD74 /* Ready.m */; };
 		FC3B65061A22B4EC00CB99B4 /* Total.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3B65051A22B4EC00CB99B4 /* Total.m */; };
 		FC3B65091A22B67600CB99B4 /* Finishr.m in Sources */ = {isa = PBXBuildFile; fileRef = FC3B65081A22B67600CB99B4 /* Finishr.m */; };
 		FC558EF21A2159C900256A28 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FC558EF11A2159C900256A28 /* main.m */; };
@@ -128,6 +129,8 @@
 		FC0B58951A229D51003A2CF0 /* size-venti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "size-venti.png"; sourceTree = "<group>"; };
 		FC0B58961A229D51003A2CF0 /* Starbucks_Corporation_Logo_2011.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Starbucks_Corporation_Logo_2011.svg.png; sourceTree = "<group>"; };
 		FC0B58971A229D51003A2CF0 /* Starbucks_logo_2011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Starbucks_logo_2011.png; sourceTree = "<group>"; };
+		FC38D14B1A22BCFF0080AD74 /* Ready.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ready.h; sourceTree = "<group>"; };
+		FC38D14C1A22BCFF0080AD74 /* Ready.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ready.m; sourceTree = "<group>"; };
 		FC3B65041A22B4EC00CB99B4 /* Total.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Total.h; sourceTree = "<group>"; };
 		FC3B65051A22B4EC00CB99B4 /* Total.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Total.m; sourceTree = "<group>"; };
 		FC3B65071A22B67600CB99B4 /* Finishr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Finishr.h; sourceTree = "<group>"; };
@@ -360,6 +363,8 @@
 				FC3B65051A22B4EC00CB99B4 /* Total.m */,
 				FC3B65071A22B67600CB99B4 /* Finishr.h */,
 				FC3B65081A22B67600CB99B4 /* Finishr.m */,
+				FC38D14B1A22BCFF0080AD74 /* Ready.h */,
+				FC38D14C1A22BCFF0080AD74 /* Ready.m */,
 			);
 			path = "watchkit1 WatchKit Extension";
 			sourceTree = "<group>";
@@ -621,6 +626,7 @@
 				FC558F291A215AF300256A28 /* NotificationController.m in Sources */,
 				FC3B65091A22B67600CB99B4 /* Finishr.m in Sources */,
 				FC0B58561A228FE4003A2CF0 /* CoffeeController.m in Sources */,
+				FC38D14D1A22BCFF0080AD74 /* Ready.m in Sources */,
 				FC5AA0B81A22A52300E633A9 /* SelectSizes.m in Sources */,
 				FC558F261A215AF300256A28 /* InterfaceController.m in Sources */,
 				FC5AA0BB1A22A8FC00E633A9 /* Milk.m in Sources */,
