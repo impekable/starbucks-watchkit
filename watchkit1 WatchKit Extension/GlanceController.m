@@ -16,15 +16,15 @@
 
 @implementation GlanceController
 
-- (instancetype)initWithContext:(id)context {
-    self = [super initWithContext:context];
-    if (self){
+- (void)awakeWithContext:(id)context {
+    [super awakeWithContext:context];
+//    if (self){
         // Initialize variables here.
         // Configure interface objects here.
         NSLog(@"%@ initWithContext", self);
         
-    }
-    return self;
+//    }
+//    return self;
 }
 
 - (void)willActivate {
